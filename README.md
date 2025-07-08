@@ -1,8 +1,11 @@
 # Build Your OpenCV
-
 <br>
-
-# https://github.com/opencv/opencv/releases/download/4.10.0/opencv-4.10.0-windows.exe
+<div align="center">
+    <a href="
+    https://github.com/opencv/opencv/releases/download/4.10.0/opencv-4.10.0-windows.exe" target="_blank">
+    <b>Download for OpenCV</b>
+    </a>
+</div>
 
 ## 使用示例
 
