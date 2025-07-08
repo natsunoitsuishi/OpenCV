@@ -1,12 +1,11 @@
-# Build Your OpenCV
-<br>
-<div align="center">
-    <a href="
-    https://github.com/opencv/opencv/releases/download/4.10.0/opencv-4.10.0-windows.exe" target="_blank">
-    <b>Download for OpenCV</b>
-    </a>
-</div>
+# Link Your Code to OpenCV
+<h3 align="center">📦 OpenCV for Windows</h3>
 
+<p align="center">
+  <a href="https://github.com/opencv/opencv/releases/download/4.10.0/opencv-4.10.0-windows.exe">
+    <img src="https://img.shields.io/badge/Download-OpenCV%204.10.0-blue?style=for-the-badge&logo=windows" alt="Download OpenCV for Windows">
+  </a>
+</p>
 ## 使用示例
 
 ```cpp
