@@ -34,7 +34,7 @@ int main() {
 ## Build
 
 ```cpp
-cmake -B build
+cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=D:/vcpkg/scripts/buildsystems/vcpkg.cmake
 cd .\build\
 cmake --build .
 ```
